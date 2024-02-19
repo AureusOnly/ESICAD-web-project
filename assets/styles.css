@@ -1,0 +1,74 @@
+td{
+    border: 3px solid white;
+}
+
+h4{
+    color : gold;
+}
+a{
+    color: red;
+}
+header {
+    color : purple;
+     text-align: center; 
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+.body{
+color: white;
+background-color: black;
+background-image: url();
+background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-position: bottom;
+}
+body{
+    color: white;
+    background-color: black;
+    background-image: url();
+    background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-position: center;
+      background-position: bottom;
+    }
+body{
+        color: white;
+        background-color: black;
+        background-image: url();
+        background-repeat: no-repeat;
+          background-attachment: fixed;
+          background-position: center;
+          background-position: bottom;
+    }
+body{
+        color: white;
+        background-color: black;
+        background-image: url();
+        background-repeat: no-repeat;
+          background-attachment: fixed;
+          background-position: center;
+          background-position: bottom;
+    }
+
+    nav ul {
+    list-style-type: none;
+    background-color: #333;
+  }
+  
+  nav ul li {
+    display: inline;
+  }
+  
+  nav ul li a {
+    display: inline-block;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: purple;
+  }
+  
+  nav ul li a:hover {
+    background-color:goldenrod;
+  }
